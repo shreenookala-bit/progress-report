@@ -1,0 +1,7 @@
+Api commands
+POST,PULL,PUT,PATCH,DELETE
+https status code
+200 is successfully response
+201 is successfully for pull command
+204 is successfully for delete command
+security testing watching video is going on Day1 
